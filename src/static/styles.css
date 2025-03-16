@@ -90,6 +90,12 @@ section h3 {
   list-style-type: disc;
 }
 
+.activity-card .participants-list li {
+  margin-bottom: 5px;
+  color: #333;
+  font-size: 14px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
